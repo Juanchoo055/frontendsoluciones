@@ -57,9 +57,9 @@ export default {
     },
     mounted(){
         axios
-        .get('http://localhost:3000/api/articulo/list')
+        .get('https://backendpruebafinal.herokuapp.com/api/articulo/list')
         .then(response => {
-            (this.news = response.data.slice(0,4))
+            (this.news = response.data.slice(0,6))
             console.log(this.news)
         })
         

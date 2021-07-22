@@ -9,7 +9,7 @@ import vuetify from './plugins/vuetify';
 Vue.config.productionTip = false
 
 const axiosConfig = {
-  baseURL : "http://localhost:3000",
+  baseURL : "https://backendpruebafinal.herokuapp.com/",
   timeout : 30000,
 }
 
