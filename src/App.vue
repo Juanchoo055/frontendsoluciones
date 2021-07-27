@@ -15,6 +15,9 @@
     </template>
       <v-app-bar-nav-icon @click="drawer = !drawer" color="black"></v-app-bar-nav-icon>
         <v-spacer></v-spacer>
+          <v-btn color="primary" dark class="mb-2" v-bind="attrs" v-on="on">
+            <a class="nav-link" href="/Usuarios">Agregar Usuario</a>
+          </v-btn>
           <a class="nav-link" href="/Home">Inicio</a>
           <a class="nav-link" href="/Tienda">Tienda</a>               
       </v-app-bar>
