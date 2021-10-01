@@ -28,10 +28,10 @@ export default {
     return {
       items: [
         {
-          src: 'https://vettastore.com/wp-content/uploads/2021/04/BANNER-1.png',
+          src: 'https://cdn.shopify.com/s/files/1/0594/4760/7503/files/55E99D48-5B0F-43BE-94FB-1E16E3797B5E.jpg?v=1629422215',
         },
         {
-          src: 'https://vettastore.com/wp-content/uploads/2021/04/55E99D48-5B0F-43BE-94FB-1E16E3797B5E-scaled.jpg',
+          src: 'https://cdn.shopify.com/s/files/1/0594/4760/7503/files/43EE5C8C-B98B-420B-8CCA-2D3C46224D8B.jpg?v=1629422212',
         },
         {
           src: 'https://vettastore.com/wp-content/uploads/2021/04/8999DCBF-4325-4502-B374-B40F9A5F88A0-scaled.jpg',
