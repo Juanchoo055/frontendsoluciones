@@ -10,7 +10,7 @@
   
     <v-card-text>
       <div class="img1">
-        <img  src="https://vettastore.com/wp-content/uploads/2021/01/Logo-06-e1610025404424.png" alt="logo vetta" width="400" >
+        <img  src="https://cdn.shopify.com/s/files/1/0594/4760/7503/files/logoblancoopt.png?v=1633106212" alt="logo vetta" width="400" >
       </div><br><br>
           <div class="text--secondary"><h5 class="texto">
           <p style="text-align: center" >
@@ -34,10 +34,10 @@ export default {
           src: 'https://cdn.shopify.com/s/files/1/0594/4760/7503/files/43EE5C8C-B98B-420B-8CCA-2D3C46224D8B.jpg?v=1629422212',
         },
         {
-          src: 'https://vettastore.com/wp-content/uploads/2021/04/8999DCBF-4325-4502-B374-B40F9A5F88A0-scaled.jpg',
+          src: 'https://cdn.shopify.com/s/files/1/0594/4760/7503/files/8999DCBF-4325-4502-B374-B40F9A5F88A0_d6892c2d-c0da-43ca-b712-b64029fdc851.jpg?v=1629422040',
         },
         {
-          src: 'https://vettastore.com/wp-content/uploads/2021/04/43EE5C8C-B98B-420B-8CCA-2D3C46224D8B-scaled.jpg',
+          src: 'https://cdn.shopify.com/s/files/1/0594/4760/7503/files/BANNER.png?v=1629213097',
         },
       ],
     }
